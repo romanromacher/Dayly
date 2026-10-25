@@ -61,6 +61,8 @@ npm test           # Tests (32)
 npm run icons      # App-Icons neu erzeugen
 ```
 
+
+
 ## Sicherheit
 
 - Alle Seiten und API-Routen außer Login/Cron/Manifest/Icons verlangen ein signiertes httpOnly-Cookie.
